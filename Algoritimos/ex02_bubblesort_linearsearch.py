@@ -33,3 +33,4 @@ if position is not False:
     print(f"A nota {target} foi encontrada na posição {position} do ranking.")
 else:
     print(f"A nota {target} não está na lista.")
+    
