@@ -1,7 +1,7 @@
-# estrutura_de_dados
-Alunos: Antônio Gabriel, Danilo Soares de Matos, Eudes de Oliveira Rocha
+# E-Commerce
+Alunos: Antônio Gabriel, Danilo Soares de Matos, Eudes de Oliveira Rocha, Vinicius Augusto, Samuel Thomas Cipriano
 
 Professor: Icaro
 
-Esse é o nosso projeto de estrutura de dados
+Esse é o nosso projeto de E-Commerce de livros para Estrutura de Dados
 
