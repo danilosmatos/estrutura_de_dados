@@ -4,4 +4,3 @@ Alunos: Antônio Gabriel, Danilo Soares de Matos, Eudes de Oliveira Rocha, Vinic
 Professor: Icaro
 
 Esse é o nosso projeto de E-Commerce de livros para Estrutura de Dados
-
