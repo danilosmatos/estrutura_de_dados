@@ -1,6 +1,6 @@
 # Loja de Livros Online
 Alunos:  
-[Antônio Gabriel](https://github.com/Anton-Gabriel-code) | [Danilo Soares de Matos](https://github.com/danilosmatos) | [Eudes de Oliveira Rocha](https://github.com/eudesolv) | Vinicius Augusto | [Samuel Thomas Cipriano](https://github.com/samuelcipriano) |
+[Antônio Gabriel](https://github.com/Anton-Gabriel-code) | [Danilo Soares de Matos](https://github.com/danilosmatos) | [Eudes de Oliveira Rocha](https://github.com/eudesolv) | [Vinicius Augusto](https://github.com/Vinicius1213) | [Samuel Thomas Cipriano](https://github.com/samuelcipriano) |
 
 Professor:  
 [Icaro Santos Ferreira](https://www.instagram.com/flamengo/?hl=en) 
