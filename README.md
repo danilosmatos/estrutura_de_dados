@@ -6,15 +6,14 @@ Professor:
 Icaro Santos Ferreira
 
 
-Dado listas/váriaveis iguais estas são as comparações feitas por meio do matplotlib.
+## Dado listas/váriaveis iguais estas são as comparações feitas por meio do matplotlib.
 
----
-<p align = "center">
-## Comparação de Tempo:
+--
+
+### Comparação de Tempo:
 ![Tempo](https://github.com/danilosmatos/estrutura_de_dados/blob/main/Gr%C3%A1ficos/Tempo.png?raw=true)
 
 
-## Comparação de Complexidade:
+### Comparação de Complexidade:
 ![Complexidade](https://github.com/danilosmatos/estrutura_de_dados/blob/main/Gr%C3%A1ficos/Complexidade.png?raw=true)
 
-</p>
